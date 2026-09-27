@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Animated Main Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=Multi-Tier%20Academic%20Workflow&fontSize=38&fontColor=ffffff&animation=fadeIn&subtext=Project%20Review%20%26%20Governance%20Platform%20%E2%80%A2%204-Tier%20RBAC%20%E2%80%A2%20Supabase%20RLS&subfontSize=16&subfontColor=e0e7ff" alt="Header Banner" />
+<!-- Animated Main Header Banner (Sleek Gradient Slice Style) -->
+<img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,10,25,30&height=220&section=header&text=Multi-Tier%20Academic%20Workflow&fontSize=42&fontColor=ffffff&animation=fadeIn&subtext=Project%20Review%20%26%20Governance%20Platform%20%E2%80%A2%204-Tier%20RBAC%20%E2%80%A2%20Supabase%20RLS&subfontSize=16&subfontColor=e2e8f0" alt="Header Banner" />
 
 <br />
 
@@ -44,7 +44,7 @@
   <a href="#-system-overview">Overview</a> •
   <a href="#-key-features--role-capabilities">Key Features & Animations</a> •
   <a href="#-system-architecture">Architecture</a> •
-  <a href="#-academic-review-workflow">Interactive Workflow</a> •
+  <a href="#-academic-review-workflow--interactive-node-architecture">Interactive Drag & Drop Workflow</a> •
   <a href="#-rbac-permission-matrix">RBAC Matrix</a> •
   <a href="#-technology-ecosystem">Technology Ecosystem</a> •
   <a href="#-quick-start--installation">Quick Start</a>
@@ -73,8 +73,8 @@ Each user role is equipped with specialized tools and tailored workflows:
 ### 🎓 1. Mentee Workspace (Student Portal)
 
 <div align="center">
-  <!-- Dynamic Mentee Workspace Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&height=40&lines=Step+1%3A+Submit+Project+Abstract+%26+Repository+URL;Step+2%3A+Form+Teams+%26+Validate+Student+Rosters;Step+3%3A+Offline-First+Caching+via+OfflineSyncProvider;Step+4%3A+Receive+Realtime+Push+Alerts+on+Evaluation" alt="Mentee Workspace Animation" />
+  <!-- Dynamic Mentee Workspace Typing Animation (Clean Phrases) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&height=40&lines=Submit+Project+Abstract+%26+Repository+URL;Form+Teams+%26+Validate+Student+Rosters;Offline-First+Caching+via+OfflineSyncProvider;Receive+Realtime+Push+Alerts+on+Evaluation" alt="Mentee Workspace Animation" />
 </div>
 
 - **Proposal & Deliverable Submissions**: Upload abstracts, tech stacks, repository URLs, documentation PDFs, and presentation decks.
@@ -87,8 +87,8 @@ Each user role is equipped with specialized tools and tailored workflows:
 ### 👨‍🏫 2. Mentor Evaluation Suite (Faculty Guide)
 
 <div align="center">
-  <!-- Dynamic Mentor Evaluation Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=34D399&center=true&vCenter=true&width=750&height=40&lines=Step+1%3A+Inspect+Assigned+Student+Team+Rosters;Step+2%3A+Grade+Standardized+Rubric+Criteria;Step+3%3A+Attach+Contextual+Action-Item+Feedback;Step+4%3A+Transition+Status%3A+Submitted+-%3E+Approved" alt="Mentor Suite Animation" />
+  <!-- Dynamic Mentor Evaluation Typing Animation (Clean Phrases) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=34D399&center=true&vCenter=true&width=750&height=40&lines=Inspect+Assigned+Student+Team+Rosters;Grade+Standardized+Rubric+Criteria;Attach+Contextual+Action-Item+Feedback;Transition+Status%3A+Submitted+-%3E+Approved" alt="Mentor Suite Animation" />
 </div>
 
 - **Assigned Teams Hub**: Access a centralized dashboard of all student groups under direct supervision.
@@ -101,8 +101,8 @@ Each user role is equipped with specialized tools and tailored workflows:
 ### 📋 3. Project Coordinator Dashboard
 
 <div align="center">
-  <!-- Dynamic Coordinator Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=FBBF24&center=true&vCenter=true&width=750&height=40&lines=Step+1%3A+Configure+Academic+Cycle+Deadlines;Step+2%3A+Balance+Workloads+%26+Allocate+Mentors;Step+3%3A+Generate+Secure+Feedback+Link+Tokens;Step+4%3A+Monitor+Batch-Wide+Evaluation+Progress" alt="Coordinator Dashboard Animation" />
+  <!-- Dynamic Coordinator Typing Animation (Clean Phrases) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=FBBF24&center=true&vCenter=true&width=750&height=40&lines=Configure+Academic+Cycle+Deadlines;Balance+Workloads+%26+Allocate+Mentors;Generate+Secure+Feedback+Link+Tokens;Monitor+Batch-Wide+Evaluation+Progress" alt="Coordinator Dashboard Animation" />
 </div>
 
 - **Academic Cycle Configuration**: Setup academic years, submission deadlines, and review milestone calendars.
@@ -115,8 +115,8 @@ Each user role is equipped with specialized tools and tailored workflows:
 ### 🏛️ 4. HOD Executive Suite (Head of Department)
 
 <div align="center">
-  <!-- Dynamic HOD Suite Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=F43F5E&center=true&vCenter=true&width=750&height=40&lines=Step+1%3A+Audit+Department-Wide+Pass+Rates;Step+2%3A+Inspect+Project+Historical+Review+Logs;Step+3%3A+Execute+SECURITY+DEFINER+RPC+Overrides;Step+4%3A+Export+NAAC+%2F+NBA+Accreditation+Reports" alt="HOD Suite Animation" />
+  <!-- Dynamic HOD Suite Typing Animation (Clean Phrases) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=F43F5E&center=true&vCenter=true&width=750&height=40&lines=Audit+Department-Wide+Pass+Rates;Inspect+Project+Historical+Review+Logs;Execute+SECURITY+DEFINER+RPC+Overrides;Export+NAAC+%2F+NBA+Accreditation+Reports" alt="HOD Suite Animation" />
 </div>
 
 - **Executive Analytics Hub**: Gain high-level visibility into project pass rates, domain distributions, and evaluation velocity.
@@ -174,7 +174,9 @@ flowchart TD
 
 ---
 
-## 🗺️ Academic Review Workflow
+## 🗺️ Academic Review Workflow & Interactive Node Architecture
+
+Below is the formal lifecycle sequence diagram for the review process:
 
 ```mermaid
 sequenceDiagram
@@ -205,30 +207,78 @@ sequenceDiagram
 
 <br />
 
-### 🔍 Interactive Workflow Phase Breakdown
+### 🕹️ Client-Side Drag-and-Drop Workflow Canvas Implementation
+
+Rather than locking the workflow diagram inside static renders, the application includes a **client-side drag-and-drop interactive canvas** located at [`frontend/src/components/InteractiveWorkflow.jsx`](file:///c:/Users/DURGESH%20PADVAL/Documents/project%20review%20system/frontend/src/components/InteractiveWorkflow.jsx).
+
+Character nodes (**Mentee**, **Mentor**, **Coordinator**, **HOD**) render as draggable DOM elements powered by **Framer Motion**, with dynamic SVG Bézier curve math (`<path d="M x1 y1 C ... x2 y2" />`) recalculating connecting lines in real-time as nodes are moved across the viewport.
 
 <details>
-<summary><b>🔹 Phase 1: Proposal Submission & Roster Check</b></summary>
-<br />
-Students submit project titles, abstracts, code repository links, and team member details. Submissions trigger an automatic database record insertion with initial state `PENDING_REVIEW` and emit WebSocket events to assigned mentors.
-</details>
+<summary><b>💻 View Technical Breakdown & React Implementation Code</b></summary>
 
-<details>
-<summary><b>🔹 Phase 2: Mentor Rubric Grading & Action Items</b></summary>
 <br />
-Faculty mentors review project deliverables against standardized evaluation rubrics. Mentors can either request targeted revisions (setting state to `REVISION_REQUIRED`) or approve the project phase (setting state to `MENTOR_APPROVED`).
-</details>
 
-<details>
-<summary><b>🔹 Phase 3: Coordinator Verification & Batch Auditing</b></summary>
-<br />
-Project Coordinators review team allocations, verify compliance with academic deadlines, and forward approved projects to the Head of Department with state `COORDINATOR_VERIFIED`.
-</details>
+#### 1. Node State & Dynamic Coordinate Tracking
+Each character node maintains its `(x, y)` position in React component state. When a user drags a node using Framer Motion's `onDrag`, coordinate deltas dynamically update state:
 
-<details>
-<summary><b>🔹 Phase 4: HOD Executive Sign-off & RPC Execution</b></summary>
-<br />
-The Head of Department performs final executive audits. Approvals trigger the `SECURITY DEFINER` RPC function `update_project_status(p_project_id, 'FULLY_APPROVED')`, completing the review lifecycle.
+```jsx
+const handleDrag = (id, info) => {
+  setNodes((prevNodes) =>
+    prevNodes.map((node) => {
+      if (node.id === id) {
+        return {
+          ...node,
+          x: Math.max(20, node.x + info.delta.x),
+          y: Math.max(20, node.y + info.delta.y),
+        };
+      }
+      return node;
+    })
+  );
+};
+```
+
+#### 2. Dynamic SVG Connector Path Mathematics
+An SVG overlay layer sits beneath the draggable nodes. The connecting lines use cubic Bézier curves recalculated continuously based on the centers of connecting nodes:
+
+$$\mathbf{C}(t) = (1-t)^3 \mathbf{P}_0 + 3(1-t)^2 t \mathbf{P}_1 + 3(1-t) t^2 \mathbf{P}_2 + t^3 \mathbf{P}_3$$
+
+```jsx
+<svg className="absolute inset-0 w-full h-full pointer-events-none">
+  {CONNECTIONS.map((conn) => {
+    const start = getNodeCenter(conn.from);
+    const end = getNodeCenter(conn.to);
+    return (
+      <path
+        key={`${conn.from}-${conn.to}`}
+        d={`M ${start.x} ${start.y} C ${start.x + 80} ${start.y}, ${end.x - 80} ${end.y}, ${end.x} ${end.y}`}
+        fill="none"
+        stroke="#6366f1"
+        strokeWidth="3"
+        strokeDasharray="6 4"
+        markerEnd="url(#arrow)"
+      />
+    );
+  })}
+</svg>
+```
+
+#### 3. Draggable Framer Motion Component Render
+```jsx
+<motion.div
+  key={node.id}
+  drag
+  dragConstraints={containerRef}
+  onDrag={(e, info) => handleDrag(node.id, info)}
+  onClick={() => setSelectedNode(node)}
+  style={{ x: node.x, y: node.y }}
+  className="absolute z-10 w-56 p-4 rounded-xl border bg-slate-900/90 shadow-lg cursor-grab active:cursor-grabbing"
+>
+  <h3>{node.role}</h3>
+  <p>{node.title}</p>
+</motion.div>
+```
+
 </details>
 
 ---
@@ -262,6 +312,7 @@ The platform is engineered using modern web technologies across four core layers
   <img src="https://img.shields.io/badge/React_18-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React 18" />
   <img src="https://img.shields.io/badge/Vite_5-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite 5" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
   <img src="https://img.shields.io/badge/React_Router_v6-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router" />
   <img src="https://img.shields.io/badge/Lucide_Icons-F54E00?style=for-the-badge&logo=feather&logoColor=white" alt="Lucide Icons" />
 </p>
@@ -295,7 +346,7 @@ The platform is engineered using modern web technologies across four core layers
 
 | Ecosystem Layer | Technologies | Role & Impact |
 | :--- | :--- | :--- |
-| **User Interface** | `React 18` • `Vite 5` • `Tailwind CSS` | Ultra-fast SPA client with glassmorphism UI & responsive design |
+| **User Interface** | `React 18` • `Vite 5` • `Tailwind CSS` • `Framer Motion` | Ultra-fast SPA client with glassmorphism UI & drag-and-drop workflow canvas |
 | **State & Caching** | `Context API` • `Custom Hooks` | Client-side state management & offline synchronization engine |
 | **API Gateway** | `Node.js` • `Express.js` • `JWT` | Server handling authentication, role routing, and email alerts |
 | **Database Security** | `Supabase` • `PostgreSQL` • `RLS` | Zero-trust database policies & WebSocket realtime engine |
@@ -323,7 +374,7 @@ project-review-system/
 │
 ├── 📁 frontend/
 │   ├── 📁 src/
-│   │   ├── 📁 components/        # Role dashboards (Mentee, Mentor, HOD, Coordinator)
+│   │   ├── 📁 components/        # Role dashboards & InteractiveWorkflow.jsx
 │   │   ├── 📁 contexts/          # Auth, AcademicYear & OfflineSync Contexts
 │   │   ├── 📁 hooks/             # Custom React hooks
 │   │   ├── App.jsx               # Main router & role guards
@@ -457,7 +508,7 @@ CREATE POLICY "Coordinator full access" ON coordinator_feedback_links
 CREATE OR REPLACE FUNCTION update_project_status(p_project_id UUID, p_status TEXT)
 RETURNS VOID LANGUAGE plpgsql SECURITY DEFINER AS $$
 BEGIN
-  UPDATE projects SET status = p_status WHERE id = p_project_id;
+  UPDATE projects SET status = p_status WHERE id = p_status;
 END;
 $$;
 ```
